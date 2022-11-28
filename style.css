@@ -1,0 +1,12 @@
+#img1{
+    width:400px;
+    height:300px;
+}
+#h{
+    float:right;
+    margin-right:20px;
+}
+body{
+background-size:cover;
+background-position:center;
+}
